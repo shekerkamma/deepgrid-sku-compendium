@@ -8,7 +8,7 @@ description: "Sheet-by-sheet knowledge base from Deepgrid Semi's SKU Architectur
 # Deepgrid SKU Architecture Compendium v3
 **Source**: Deepgrid Semi, SKU Architecture Compendium v3 (14 landscape sheets, 2026, marked Confidential) | **Chapters**: 14 | **Generated**: 2026-09-13
 
-**Confidential internal material.** Keep this skill private. For the business plan behind these sheets (cost model, 198-day loop, go-to-market, the round), use the sibling skill `deepgrid-sku-portfolio`.
+**Published with the owner's authorization.** The source document was marked Confidential; this skill is a synthesized summary released with Deepgrid's approval. For the business plan behind these sheets (cost model, 198-day loop, go-to-market, the round), use the sibling skill `deepgrid-sku-portfolio`.
 
 Most of the content lives in the raster figures, not the text layer. Every chapter here was written from the figures at native resolution. Arithmetic marked "reconstruction" is derived from the sheet's own numbers, not stated on it.
 

@@ -4,7 +4,7 @@ Agent skill generated from *Deepgrid SKU Architecture Compendium v3* by Deepgrid
 
 It is a sheet-by-sheet knowledge base covering nine SKU architecture sheets, the D100 drone SoC, the DG SDV platform, the SiP composition and the node roadmap. For each sheet it gives the block detail, the target values, how much to trust each figure, arithmetic checks against the sheet's own numbers, and the contradictions to fix before a diligence read.
 
-**Confidential source.** The content is synthesized summaries and analysis, not the original document text or figures, but it describes internal company architecture. Keep this repository private unless the owner has approved publication.
+**Published with the owner's authorization.** The source compendium was marked Confidential. This repository contains synthesized summaries and analysis, not the original document text or figures.
 
 ## Install
 
